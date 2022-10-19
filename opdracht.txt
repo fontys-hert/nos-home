@@ -1,0 +1,40 @@
+1. Installeer visual studio code
+2. installeer extensie live server
+
+Opdracht 1:
+- Voeg een style.css file toe aan je html file
+
+- Maak de layout van elementen van de NOS navbar na. Gebruik de volgende properties in je CSS:
+
+	4 layout musketiers
+  - display: flex
+  - justify-content: ...
+  - align-items: ...
+  - gap: ...
+  - (optioneel) flex-direction: row | column
+
+  - Width: ...
+  - max-width: ...
+  - margin: ...
+  - padding: ...
+
+Opdracht 2:
+
+- Ga alles inkleuren: De kleur van logo, lettertype, hoveren over lettertype, het verwijderen van de bolletjes, grootte van de icoontjes
+
+Tips:
+
+  - font-size: ...
+  - font-family: ...
+  - color: ...
+  - 
+
+
+
+
+
+
+
+
+
+
